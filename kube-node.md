@@ -1,6 +1,3 @@
-# kube-note
-graduation project fighting
-
 ### 虚拟机集群
 - 192.168.199.181
 - 192.168.199.182
